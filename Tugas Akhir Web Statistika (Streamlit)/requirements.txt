@@ -1,6 +1,6 @@
 pandas
 streamlit
 numpy
-scipy.stats
+scipy
 matplotlib
 pip
